@@ -45,7 +45,6 @@ pyasn1-modules==0.2.8
 pycparser==2.20
 PyDispatcher==2.0.5
 PyHamcrest==2.0.2
-pyodbc==4.0.30
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
 PyPDF2==1.26.0
